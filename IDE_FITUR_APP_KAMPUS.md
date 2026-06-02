@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+Nama Fitur: Project Claim Presensi
+Deskripsi Singkat: Fitur ini memungkinkan mahasiswa untuk claim presensi secara mandiri
+Target Pengguna Utama: Mahasiswa S1 & S2 DTETI 
+Value Proposition: Meningkatkan kemudahan akses dan kejujuran dalam claim presensi
+Diajukan oleh: 522571
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
